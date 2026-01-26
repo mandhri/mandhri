@@ -1,33 +1,15 @@
 <div align="center">
 
-<!-- +-----------------------------------------------------------------------+
-     |  [ HEADER IMAGE / BANNER ]                                             |
-     +-----------------------------------------------------------------------+ -->
-
-<!-- Option 1: Simple banner image (replace with your own if you have one) -->
-<!-- <img src="YOUR_BANNER_IMAGE_URL" alt="banner" width="100%" /> -->
-
-<br/>
-
-<!-- +-----------------------------------------------------------------------+
-     |  Hi, I'm Mandhri! 👋                                                   |
-     +-----------------------------------------------------------------------+ -->
-
 # Hi, I'm Mandhri! 👋
 
 ### 🧬 Bioinformatician @ ARMI, Monash University  
 **Multi-omics • Reproducible pipelines • R / Python • HPC**
 
-<!-- Animated typing effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=700&lines=Bioinformatics+%26+Multi-omics;DNA+methylation+%7C+Bulk+RNA-seq+%7C+Proteomics+%7C+Metabolomics;Reproducible+pipelines%3A+Nextflow%2Fnf-core+%7C+Snakemake;Containers%3A+Docker+%7C+Apptainer+%7C+Singularity;HPC%3A+SLURM+%7C+PBS+%7C+Linux" />
-
-<br/><br/>
+📍 Australia • 📧 <a href="mailto:mandhri.abeysooriya@gmail.com">mandhri.abeysooriya@gmail.com</a> • 💼 <a href="https://www.linkedin.com/in/mandhri-abeysooriya-3b622a62/">LinkedIn</a>
 
 </div>
 
-<!-- +-----------------------------------------------------------------------+
-     |  ABOUT ME (Left)  |  CONNECT WITH ME (Right)                           |
-     +-----------------------------------------------------------------------+ -->
+---
 
 <table width="100%">
   <tr>
@@ -44,9 +26,8 @@
 
 ## 🔗 Connect
 - 💼 LinkedIn: https://www.linkedin.com/in/mandhri-abeysooriya-3b622a62/
-- 📧 Email: mailto:mandhri.abeysooriya@gmail.com
-- 🧾 Google Scholar: (add link if you want)
-- 🌐 Website/Portfolio: (add link if you want)
+- 📧 Email: mandhri.abeysooriya@gmail.com
+- 🌐 Website/Portfolio: (https://mandhri.github.io/blog/)
 
     </td>
   </tr>
@@ -54,27 +35,23 @@
 
 ---
 
-<!-- +-----------------------------------------------------------------------+
-     |  MY TECH STACK (Centered)                                              |
-     +-----------------------------------------------------------------------+ -->
-
 <div align="center">
 
 ## 🛠️ My Tech Stack
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=r,python,bash" />
+<img src="https://skillicons.dev/icons?i=R,Python,Bash" />
 
 <br/><br/>
 
-**Workflows / Compute**
+**Core engineering**
 <br/>
 <img src="https://skillicons.dev/icons?i=linux,git,github,docker,aws" />
 
 <br/><br/>
 
-**Bioinformatics & Data**
+**Workflow + compute**
 <br/>
 <img src="https://img.shields.io/badge/Nextflow-nf--core-0B3D91?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Snakemake-Workflow-2E7D32?style=for-the-badge" />
@@ -86,30 +63,21 @@
 
 ---
 
-<!-- +-----------------------------------------------------------------------+
-     |  FEATURED PROJECTS                                                     |
-     +-----------------------------------------------------------------------+ -->
-
 ## 🚀 Featured Projects
 | Project | What it is | Tools |
 |---|---|---|
-| 🧬 **DNA Methylation / EWAS** | QC, filtering, batch correction, EWAS/DMRs, interpretation | R (Bioconductor), minfi/ChAMP |
+| 🧬 **DNA Methylation / EWAS** | QC, filtering, batch correction, EWAS/DMRs, pathway enrichment analysis interpretation | R, python, bash |
 | 🧫 **Bulk RNA-seq Pipelines** | FASTQ → QC → alignment/quant → DE → reporting | Snakemake / Nextflow, R |
-| 🧪 **Proteomics + Metabolomics** | Differential analysis, missingness-aware workflows, pathways | R, GSEA-style workflows |
+| 🧪 **Proteomics + Metabolomics** | Differential analysis, missingness-aware workflows, pathway enrichment analysis | R, python |
 | 🧩 **Multi-omics Integration** | Harmonising omics layers for robust signatures/subtypes | R, HPC |
 
-> Tip: add links to your best repos here once you pick them (even 2–3 is enough).
+> Tip: replace project names with links to your best repos once you pick 2–4.
 
 ---
-
-<!-- +-----------------------------------------------------------------------+
-     |  GITHUB ANALYTICS (2-Column Layout)                                    |
-     +-----------------------------------------------------------------------+ -->
 
 <div align="center">
 
 ## 📊 GitHub Analytics
-
 <img src="https://github-readme-stats.vercel.app/api?username=mandhri&show_icons=true&hide_title=true&rank_icon=github" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandhri&layout=compact&hide_title=true" height="165" />
 
@@ -117,14 +85,9 @@
 
 ---
 
-<!-- +-----------------------------------------------------------------------+
-     |  SNAKE (Contributions)                                                 |
-     +-----------------------------------------------------------------------+ -->
-
 <div align="center">
 
 ## 🐍 Contribution Snake
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mandhri/mandhri/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mandhri/mandhri/output/github-contribution-grid-snake.svg">
@@ -135,13 +98,7 @@
 
 ---
 
-<!-- +-----------------------------------------------------------------------+
-     |  FOOTER                                                                |
-     +-----------------------------------------------------------------------+ -->
-
 <div align="center">
-
-### 🙏 Thanks for visiting!
 
 <img src="https://komarev.com/ghpvc/?username=mandhri&style=flat-square" alt="profile views" />
 
