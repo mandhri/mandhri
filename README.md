@@ -7,7 +7,7 @@
 <br/>
 
 ### 📋 Executive Summary
-[cite_start]I am a Bioinformatician with PhD-level expertise and over 6 years of experience in scalable NGS analysis pipelines and multi-omics integration[cite: 4]. [cite_start]My work focuses on identifying robust molecular signatures in large, heterogeneous datasets using advanced statistical modelling[cite: 6]. 
+I am a Bioinformatician with PhD-level expertise and over 6 years of experience in scalable NGS analysis pipelines and multi-omics integration[cite: 4]. [cite_start]My work focuses on identifying robust molecular signatures in large, heterogeneous datasets using advanced statistical modelling[cite: 6]. 
 
 [cite_start]I currently work as a Research Assistant at Deakin University, executing end-to-end computational analysis of bulk RNA-seq datasets[cite: 26, 27].
 
