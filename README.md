@@ -15,19 +15,20 @@
   <tr>
     <td valign="top" width="55%">
 
-## 🧠 About me
-- 🔭 Currently: end-to-end analysis of **DNA methylation, bulk RNA-seq, proteomics, and metabolomics**
-- 🧰 I build: **reproducible pipelines** + automated **HTML/R Markdown reports**
-- 🧪 Interests: robust signatures in large heterogeneous datasets, multi-omics integration
-- 🤝 Open to: collaborations in bioinformatics tooling, reproducible science, pipeline engineering
+## 👩🏻‍💻 About me
+- Currently: end-to-end analysis of **DNA methylation, bulk RNA-seq, proteomics, and metabolomics**
+- I build: **reproducible pipelines** + automated **HTML/R Markdown reports**
+- Interests: robust signatures in large heterogeneous datasets, multi-omics integration
+- Open to: collaborations in bioinformatics tooling, reproducible science, pipeline engineering
 
     </td>
     <td valign="top" width="45%">
 
 ## 🔗 Connect
-- 💼 LinkedIn: https://www.linkedin.com/in/mandhri-abeysooriya-3b622a62/
-- 📧 Email: mandhri.abeysooriya@gmail.com
-- 🌐 Website/Portfolio: (https://mandhri.github.io/blog/)
+- LinkedIn: https://www.linkedin.com/in/mandhri-abeysooriya-3b622a62/
+- Email: mandhri.abeysooriya@gmail.com
+- Website/Portfolio: https://mandhri.github.io/blog/
+- My Blog: https://medium.com/@mandhri.abeysooriya
 
     </td>
   </tr>
@@ -66,12 +67,10 @@
 ## 🚀 Featured Projects
 | Project | What it is | Tools |
 |---|---|---|
-| 🧬 **DNA Methylation / EWAS** | QC, filtering, batch correction, EWAS/DMRs, pathway enrichment analysis interpretation | R, python, bash |
-| 🧫 **Bulk RNA-seq Pipelines** | FASTQ → QC → alignment/quant → DE → reporting | Snakemake / Nextflow, R |
-| 🧪 **Proteomics + Metabolomics** | Differential analysis, missingness-aware workflows, pathway enrichment analysis | R, python |
-| 🧩 **Multi-omics Integration** | Harmonising omics layers for robust signatures/subtypes | R, HPC |
-
-> Tip: replace project names with links to your best repos once you pick 2–4.
+| **DNA Methylation / EWAS** | QC, filtering, batch correction, EWAS/DMRs, pathway enrichment analysis interpretation | R, python, bash |
+| **Bulk RNA-seq Pipelines** | FASTQ → QC → alignment/quant → DE → reporting | Snakemake / Nextflow, R |
+| **Proteomics + Metabolomics** | Differential analysis, missingness-aware workflows, pathway enrichment analysis | R, python |
+| **Multi-omics Integration** | Harmonising omics layers for robust signatures/subtypes | R, HPC, Bash |
 
 ---
 
