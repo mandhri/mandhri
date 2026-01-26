@@ -3,7 +3,9 @@
 # Hi, I'm Mandhri! 👋
 
 ### 🧬 a PhD-trained Bioinformatician @ ARMI, Monash University  
-**Multi-omics • Reproducible pipelines • R / Python • HPC**
+** I run end-to-end analyses across **DNA methylation, bulk RNA-seq, proteomics, and metabolomics**, and I build reproducible pipelines with automated **R Markdown/HTML reports**.  
+** I mostly work in **R and Bash** for reproducible bioinformatics workflows. Recently, I’m shifting more into **Python and AI engineering** to build scalable analysis tools and automation.
+
 
 📍 Australia • 📧 <a href="mailto:mandhri.abeysooriya@gmail.com">mandhri.abeysooriya@gmail.com</a> • ⏹️ <a href="https://www.linkedin.com/in/mandhri-abeysooriya-3b622a62/">LinkedIn</a>
 
