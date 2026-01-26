@@ -5,7 +5,7 @@
 ### 🧬 Bioinformatician @ ARMI, Monash University  
 **Multi-omics • Reproducible pipelines • R / Python • HPC**
 
-📍 Australia • 📧 <a href="mailto:mandhri.abeysooriya@gmail.com">mandhri.abeysooriya@gmail.com</a> • 💼 <a href="https://www.linkedin.com/in/mandhri-abeysooriya-3b622a62/">LinkedIn</a>
+📍 Australia • 📧 <a href="mailto:mandhri.abeysooriya@gmail.com">mandhri.abeysooriya@gmail.com</a> • ⏹️ <a href="https://www.linkedin.com/in/mandhri-abeysooriya-3b622a62/">LinkedIn</a>
 
 </div>
 
@@ -16,19 +16,9 @@
     <td valign="top" width="55%">
 
 ## 👩🏻‍💻 About me
-- Currently: end-to-end analysis of **DNA methylation, bulk RNA-seq, proteomics, and metabolomics**
-- I build: **reproducible pipelines** + automated **HTML/R Markdown reports**
-- Interests: robust signatures in large heterogeneous datasets, multi-omics integration
-- Open to: collaborations in bioinformatics tooling, reproducible science, pipeline engineering
-
-    </td>
-    <td valign="top" width="45%">
-
-## 🔗 Connect
-- LinkedIn: https://www.linkedin.com/in/mandhri-abeysooriya-3b622a62/
-- Email: mandhri.abeysooriya@gmail.com
-- Website/Portfolio: https://mandhri.github.io/blog/
-- My Blog: https://medium.com/@mandhri.abeysooriya
+- Currently: End-to-end analysis of **DNA methylation, bulk RNA-seq, proteomics, and metabolomics**
+- I build: **Reproducible pipelines** + automated **HTML/R Markdown reports**
+- Interests: Robust signatures in large heterogeneous datasets, multi-omics integration
 
     </td>
   </tr>
@@ -48,7 +38,7 @@
 
 **Core engineering**
 <br/>
-<img src="https://skillicons.dev/icons?i=linux,git,github,docker,aws" />
+<img src="https://skillicons.dev/icons?i=linux,github,docker,aws" />
 
 <br/><br/>
 
