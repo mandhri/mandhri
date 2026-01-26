@@ -41,7 +41,7 @@
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=R,Python,Bash" />
+<img src="https://skillicons.dev/icons?i=r,python,bash" />
 
 <br/><br/>
 
