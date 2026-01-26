@@ -7,17 +7,16 @@
 <br/>
 
 ### 📋 Executive Summary
-I am a Bioinformatician with PhD-level expertise and over 6 years of experience in scalable NGS analysis pipelines and multi-omics integration[cite: 4]. [cite_start]My work focuses on identifying robust molecular signatures in large, heterogeneous datasets using advanced statistical modelling[cite: 6]. 
+I am a Bioinformatician with PhD-level expertise and over 6 years of experience in scalable NGS analysis pipelines and multi-omics integration. My work focuses on identifying robust molecular signatures in large, heterogeneous datasets using advanced statistical modelling. 
 
-[cite_start]I currently work as a Research Assistant at Deakin University, executing end-to-end computational analysis of bulk RNA-seq datasets[cite: 26, 27].
-
+I currently work as a Bioinformatician at Australian Regenerative Medicine Institute, Monash University, executing end-to-end computational analysis of DNA methylation, bulk RNA-seq, proteomics and metabolomics datasets.
 <br/>
 
 ### 🛠️ Technical Arsenal
-[cite_start]**Languages:** R (Advanced), Python (NumPy/Pandas), Bash [cite: 16]  
-[cite_start]**Workflow Managers:** Snakemake, Nextflow (nf-core) [cite: 20]  
-[cite_start]**Infrastructure:** Docker, Apptainer/Singularity, AWS, Linux HPC (SLURM/PBS) [cite: 21, 22]  
-[cite_start]**Bioinformatics:** DESeq2, limma-voom, STAR, GATK/Mutect2, Bioconductor [cite: 9, 12]
+**Languages:** R (Advanced), Python (NumPy/Pandas), Bash  
+**Workflow Managers:** Snakemake, Nextflow (nf-core) 
+**Infrastructure:** Docker, Apptainer/Singularity, AWS, Linux HPC (SLURM/PBS)  
+**Bioinformatics:** DESeq2, limma-voom, STAR, GATK/Mutect2, Bioconductor, minfi. metafor, DEqMS
 
 <br/>
 
@@ -25,10 +24,10 @@ I am a Bioinformatician with PhD-level expertise and over 6 years of experience 
 
 | **Project Focus** | **Description** | **Tech Used** |
 | :--- | :--- | :--- |
-| **Multi-Omics Cancer Subtypes** | [cite_start]Integrated TMT proteomics and RNA-seq data to identify 8 molecularly distinct tumour subtypes with clinical relevance[cite: 60, 61]. | R, Linux/HPC |
-| **Somatic WGS Variant Calling** | [cite_start]Deployed a reproducible somatic variant-calling workflow using nf-core/sarek for tumour-normal paired analysis[cite: 51, 52]. | Nextflow, Apptainer |
-| **Single-Cell RNA-seq** | [cite_start]Developed an end-to-end workflow processing raw UMI count matrices to donor-level differential expression and pathway enrichment[cite: 55, 56]. | R/Bioconductor |
-| **Epigenetic Ageing Analysis** | [cite_start]Led a large-scale DNA methylation meta-analysis across 134 datasets (38,000 participants) to characterise sex-specific ageing[cite: 34]. | R (minfi/ChAMP) |
+| **Multi-Omics Cancer Subtypes** | Integrated TMT proteomics and RNA-seq data to identify 8 molecularly distinct tumour subtypes with clinical relevance. | R, Linux/HPC |
+| **Somatic WGS Variant Calling** | Deployed a reproducible somatic variant-calling workflow using nf-core/sarek for tumour-normal paired analysis. | Nextflow, Apptainer |
+| **Single-Cell RNA-seq** | Developed an end-to-end workflow processing raw UMI count matrices to donor-level differential expression and pathway enrichment. | R/Bioconductor |
+| **Epigenetic Ageing Analysis** | Led a large-scale DNA methylation meta-analysis across 134 datasets (38,000 participants) to characterise sex-specific ageing. | R (minfi/ChAMP) |
 
 <br/>
 
@@ -39,7 +38,7 @@ I am a Bioinformatician with PhD-level expertise and over 6 years of experience 
 <br/>
 
 ### 🔗 Connect
-[cite_start][LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/mandhri-abeysooriya-3b622a62/)) • [Email](mailto:mandhri.abeysooriya@gmail.com) [cite: 2]
+[LinkedIn](https://www.linkedin.com/in/mandhri-abeysooriya-3b622a62/) • [Email](mailto:mandhri.abeysooriya@gmail.com)
 
 <br/>
 <br/>
