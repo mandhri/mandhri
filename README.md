@@ -22,7 +22,7 @@ I'm a bioinformatician passionate about extracting biological meaning from large
 
 I mostly work in **R** and **Bash** for reproducible bioinformatics workflows. Recently, I'm shifting more into **Python** and **AI engineering** to build scalable analysis tools and automation.
 
-    </td>
+
   </tr>
 </table>
 
