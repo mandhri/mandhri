@@ -2,13 +2,8 @@
 
 # Hi, I'm Mandhri! 👋
 
-### 🧬 PhD-trained Bioinformatician @ ARMI, Monash University
-
-I run end-to-end analyses across **DNA methylation, bulk RNA-seq, proteomics, and metabolomics**,  
-and build reproducible pipelines with automated **R Markdown/HTML reports**.
-
-I mostly work in **R** and **Bash** for reproducible bioinformatics workflows.  
-Recently, I’m shifting more into **Python** and **AI engineering** to build scalable analysis tools and automation.
+### 🧬 Bioinformatician @ ARMI, Monash University
+**DNA Methylation • RNA-seq • Proteomics • Multi-Omics Integration**
 
 📍 Australia • 📧 <a href="mailto:mandhri.abeysooriya@gmail.com">mandhri.abeysooriya@gmail.com</a> • 🔗 <a href="https://www.linkedin.com/in/mandhri-abeysooriya-3b622a62/">LinkedIn</a>
 
@@ -22,9 +17,10 @@ Recently, I’m shifting more into **Python** and **AI engineering** to build sc
     <td valign="top" width="55%">
 
 ## 👩🏻‍💻 About me
-- Currently: End-to-end analysis of **DNA methylation, bulk RNA-seq, proteomics, and metabolomics**
-- I build: **Reproducible pipelines** + automated **HTML/R Markdown reports**
-- Interests: Robust signatures in large heterogeneous datasets, multi-omics integration
+**PhD in Bioinformatics & Biostatistics** (Deakin, 2025) | **M.Sc. Bioinformatics**
+I'm a bioinformatician passionate about extracting biological meaning from large, complex genomic datasets. I specialise in designing and executing end-to-end analysis workflows across DNA methylation, bulk RNA-seq, proteomics, and metabolomics—with a focus on identifying robust molecular signatures in heterogeneous populations.
+
+I mostly work in **R** and **Bash** for reproducible bioinformatics workflows. Recently, I'm shifting more into **Python** and **AI engineering** to build scalable analysis tools and automation.
 
     </td>
   </tr>
