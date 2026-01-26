@@ -2,7 +2,7 @@
 
 # Hi, I'm Mandhri! 👋
 
-### 🧬 Bioinformatician @ ARMI, Monash University  
+### 🧬 a PhD-trained Bioinformatician @ ARMI, Monash University  
 **Multi-omics • Reproducible pipelines • R / Python • HPC**
 
 📍 Australia • 📧 <a href="mailto:mandhri.abeysooriya@gmail.com">mandhri.abeysooriya@gmail.com</a> • ⏹️ <a href="https://www.linkedin.com/in/mandhri-abeysooriya-3b622a62/">LinkedIn</a>
