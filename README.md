@@ -18,7 +18,7 @@
 
 ## 👩🏻‍💻 About me
 **PhD in Bioinformatics & Biostatistics** (Deakin, 2025) | **M.Sc. Bioinformatics**
-I'm a bioinformatician passionate about extracting biological meaning from large, complex genomic datasets. I specialise in designing and executing end-to-end analysis workflows across DNA methylation, bulk RNA-seq, proteomics, and metabolomics—with a focus on identifying robust molecular signatures in heterogeneous populations.
+I'm a bioinformatician passionate about extracting biological meaning from large, complex genomic datasets. I specialise in designing and executing end-to-end analysis workflows across DNA methylation, bulk RNA-seq, proteomics, and metabolomics, with a focus on identifying robust molecular signatures in heterogeneous populations.
 
 I mostly work in **R** and **Bash** for reproducible bioinformatics workflows. Recently, I'm shifting more into **Python** and **AI engineering** to build scalable analysis tools and automation.
 
