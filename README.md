@@ -64,15 +64,6 @@ I mostly work in **R** and **Bash** for reproducible bioinformatics workflows. R
 | **Proteomics + Metabolomics** | Differential analysis, missingness-aware workflows, pathway enrichment analysis | R, python |
 | **Multi-omics Integration** | Harmonising omics layers for robust signatures/subtypes | R, HPC, Bash |
 
----
-
-<div align="center">
-
-## GitHub Analytics
-<img src="https://github-readme-stats.vercel.app/api?username=mandhri&show_icons=true&hide_title=true&rank_icon=github" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandhri&layout=compact&hide_title=true" height="165" />
-
-</div>
 
 ---
 
