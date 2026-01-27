@@ -30,7 +30,7 @@ I mostly work in **R** and **Bash** for reproducible bioinformatics workflows. R
 
 <div align="center">
 
-## 🛠️ My Tech Stack
+## Tech Stack
 
 **Languages**
 <br/>
@@ -56,7 +56,7 @@ I mostly work in **R** and **Bash** for reproducible bioinformatics workflows. R
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 | Project | What it is | Tools |
 |---|---|---|
 | **DNA Methylation / EWAS** | QC, filtering, batch correction, EWAS/DMRs, pathway enrichment analysis interpretation | R, python, bash |
@@ -68,7 +68,7 @@ I mostly work in **R** and **Bash** for reproducible bioinformatics workflows. R
 
 <div align="center">
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 <img src="https://github-readme-stats.vercel.app/api?username=mandhri&show_icons=true&hide_title=true&rank_icon=github" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandhri&layout=compact&hide_title=true" height="165" />
 
@@ -78,7 +78,6 @@ I mostly work in **R** and **Bash** for reproducible bioinformatics workflows. R
 
 <div align="center">
 
-## 🐍 Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mandhri/mandhri/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mandhri/mandhri/output/github-contribution-grid-snake.svg">
